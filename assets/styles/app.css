@@ -780,7 +780,7 @@ input[type=text] {
 .inputbox #input__border2,
 .inputbox #input__border3,
 .inputbox #input__border4 {
-  border: 1px solid red;
+  color: #000;
 }
 
 form a {
